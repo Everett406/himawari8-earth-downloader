@@ -1,0 +1,9 @@
+Pillow>=11.0.0
+requests>=2.32.0
+python-dateutil>=2.9.0
+urllib3>=2.0.0
+rich
+opencv-python
+pillow
+numpy
+tqdm

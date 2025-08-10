@@ -1,0 +1,8 @@
+{
+  "output_dir": "./downloads",
+  "scale": 4,
+  "max_retries": 2,
+  "first_timeout": 300,
+  "retry_timeout": 210,
+  "log_level": "INFO"
+}

@@ -1,0 +1,25 @@
+{
+  "input_dir": "./downloads",
+  "output_dir": "./videos",
+  "default_mode": "duration",
+  "default_duration": 2.0,
+  "default_fps": 30,
+  "default_quality": 95,
+  "default_bitrate": 10000,
+  "default_codec": "h264",
+  "video_settings": {
+    "codec": "mp4v",
+    "container": "mp4",
+    "audio": false
+  },
+  "ui_settings": {
+    "show_progress": true,
+    "confirm_overwrite": true,
+    "save_last_range": true
+  },
+  "api_settings": {
+    "enabled": true,
+    "port": 8001,
+    "cors_enabled": true
+  }
+}
