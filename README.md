@@ -1,3 +1,9 @@
+---
+
+> [!NOTE]
+> **本仓库已迁移至 Gitee**：<https://gitee.com/Everett5678/himawari8-earth-downloader>
+> GitHub 端仅作只读归档，新代码请推送到 Gitee。
+
 # Himawari8 Image Downloader
 
 **himawari8downloader** is a tool to download near real time earth images taken by [**Himawari8**](https://en.wikipedia.org/wiki/Himawari_8) .
